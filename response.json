@@ -1,0 +1,25 @@
+{
+  "app": "com.kiwibrowser.browser",
+  "code": 200,
+  "duration": "553ms",
+  "headers": {
+    "access-control-expose-headers": "X-FB-Debug, X-Loader-Length",
+    "access-control-allow-methods": "POST, OPTIONS",
+    "access-control-allow-headers": "x_fb_background_state",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-origin": "https://m.facebook.com",
+    "vary": "Origin",
+    "content-type": "application/x-javascript; charset\u003dutf-8",
+    "strict-transport-security": "max-age\u003d15552000; preload",
+    "x-fb-debug": "7xs4jrx2ux9fUC7F9tH++mp+qxJgntBCVkWwVAB7dfGhICyxSnaoLuisrMON3aiUQeX9/ikkCPI0X2APTHiapA\u003d\u003d",
+    "content-length": "0",
+    "date": "Mon, 18 Jul 2022 13:43:13 GMT",
+    "alt-svc": "h3\u003d\":443\"; ma\u003d86400, h3-29\u003d\":443\"; ma\u003d86400"
+  },
+  "message": null,
+  "protocol": "h2",
+  "remoteIp": "157.240.208.16",
+  "remotePort": 443,
+  "sessionId": "62c1b2fc-beda-4db3-a245-04e6ebc601cf",
+  "time": "2022-07-18 21:43:11"
+}

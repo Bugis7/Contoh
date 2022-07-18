@@ -1,0 +1,14 @@
+OPTIONS /a/bz?fb_dtsg=NAcMdBce4ZV_rub8wjF3NOrZ2-4A430xsnTDoBKJelnJ9s433B8XGVg%3A49%3A1658151787&jazoest=25229&lsd=VdJ0iELa9NglPsL9ohm47h&__dyn=1KiEGiE5q2K14zVQ2mml0BxG1uwAxu13w9y3q327E39x60lW4o3Bw4Ewk9E4W0om0MU0D2US0na1gwwyo1nVEdE3rw9O0iC1qw8W0iW220n60h-0Lo6-0Co&__csr=&__req=1&__a=AYlVIOUoeF8bNFVZGhUFb_dsaaGh_qfknvZn_YdDvCmbbYwp3AdEx3QBxMdv0esIkdbwiI5OlkL_2vEPPvjQjCXy7b8btbMGBESiyAStvBnzMQ&__user=100083168767770 h2
+Host: mobile.facebook.com
+accept: */*
+access-control-request-method: POST
+access-control-request-headers: x_fb_background_state
+origin: https://m.facebook.com
+user-agent: Mozilla/5.0 (Linux; Android 12; RMX3085) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36
+sec-fetch-mode: cors
+sec-fetch-site: same-site
+sec-fetch-dest: empty
+referer: https://m.facebook.com/
+accept-encoding: gzip, deflate, br
+accept-language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7
+

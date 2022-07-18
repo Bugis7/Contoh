@@ -1,0 +1,14 @@
+h2 200
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+access-control-allow-methods: POST, OPTIONS
+access-control-allow-headers: x_fb_background_state
+access-control-allow-credentials: true
+access-control-allow-origin: https://m.facebook.com
+vary: Origin
+content-type: application/x-javascript; charset=utf-8
+strict-transport-security: max-age=15552000; preload
+x-fb-debug: 7xs4jrx2ux9fUC7F9tH++mp+qxJgntBCVkWwVAB7dfGhICyxSnaoLuisrMON3aiUQeX9/ikkCPI0X2APTHiapA==
+content-length: 0
+date: Mon, 18 Jul 2022 13:43:13 GMT
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+

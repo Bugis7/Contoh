@@ -1,0 +1,25 @@
+{
+  "app": "com.kiwibrowser.browser",
+  "duration": "553ms",
+  "headers": {
+    "Host": "mobile.facebook.com",
+    "accept": "*/*",
+    "access-control-request-method": "POST",
+    "access-control-request-headers": "x_fb_background_state",
+    "origin": "https://m.facebook.com",
+    "user-agent": "Mozilla/5.0 (Linux; Android 12; RMX3085) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "sec-fetch-dest": "empty",
+    "referer": "https://m.facebook.com/",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "id-ID,id;q\u003d0.9,en-US;q\u003d0.8,en;q\u003d0.7"
+  },
+  "method": "OPTIONS",
+  "protocol": "h2",
+  "remoteIp": "157.240.208.16",
+  "remotePort": 443,
+  "sessionId": "62c1b2fc-beda-4db3-a245-04e6ebc601cf",
+  "time": "2022-07-18 21:43:11",
+  "url": "https://mobile.facebook.com/a/bz?fb_dtsg\u003dNAcMdBce4ZV_rub8wjF3NOrZ2-4A430xsnTDoBKJelnJ9s433B8XGVg%3A49%3A1658151787\u0026jazoest\u003d25229\u0026lsd\u003dVdJ0iELa9NglPsL9ohm47h\u0026__dyn\u003d1KiEGiE5q2K14zVQ2mml0BxG1uwAxu13w9y3q327E39x60lW4o3Bw4Ewk9E4W0om0MU0D2US0na1gwwyo1nVEdE3rw9O0iC1qw8W0iW220n60h-0Lo6-0Co\u0026__csr\u003d\u0026__req\u003d1\u0026__a\u003dAYlVIOUoeF8bNFVZGhUFb_dsaaGh_qfknvZn_YdDvCmbbYwp3AdEx3QBxMdv0esIkdbwiI5OlkL_2vEPPvjQjCXy7b8btbMGBESiyAStvBnzMQ\u0026__user\u003d100083168767770"
+}
